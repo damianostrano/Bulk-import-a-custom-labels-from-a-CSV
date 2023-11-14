@@ -1,0 +1,8 @@
+/**
+ * Created by Damiano Strano and Mario Nicolosi on 24/10/2023.
+ */
+
+.contentClass{
+    z-index: 10000
+    !important;
+}
